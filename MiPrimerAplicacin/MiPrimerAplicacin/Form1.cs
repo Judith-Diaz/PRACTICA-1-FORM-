@@ -68,11 +68,15 @@ namespace MiPrimerAplicacin
         {
             lbl_ingreseAlgo.BackColor = Color.Aquamarine;
             lbl_ingreseAlgo.Cursor = Cursors.Hand;
+
         }
 
         private void lbl_ingreseAlgo_MouseLeave(object sender, EventArgs e)
         {
-           lbl_ingreseAlgo.BackColor = System.Drawing.SystemColors.Control;
+            //lbl_ingreseAlgo.BackColor = System.Drawing.SystemColors.Control;
+            //      lbl_ingreseAlgo.Cursor = Cursors.Arrow;
+            lbl_ingreseAlgo.BackColor = Color.Magenta;
+
         }
     }
 }
