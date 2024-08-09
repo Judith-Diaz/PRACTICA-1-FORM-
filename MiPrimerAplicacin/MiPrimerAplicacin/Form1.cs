@@ -66,6 +66,11 @@ namespace MiPrimerAplicacin
         {
 
         }
+
+        private void lbl_ingreseAlgo_MouseMove(object sender, MouseEventArgs e)
+        {
+            lbl_ingreseAlgo.BackColor = Color.Aquamarine;
+        }
     }
 }
 

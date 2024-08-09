@@ -35,13 +35,15 @@
             // lbl_ingreseAlgo
             // 
             this.lbl_ingreseAlgo.AutoSize = true;
+            this.lbl_ingreseAlgo.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.lbl_ingreseAlgo.Font = new System.Drawing.Font("Ravie", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_ingreseAlgo.ForeColor = System.Drawing.Color.ForestGreen;
             this.lbl_ingreseAlgo.Location = new System.Drawing.Point(38, 36);
             this.lbl_ingreseAlgo.Name = "lbl_ingreseAlgo";
-            this.lbl_ingreseAlgo.Size = new System.Drawing.Size(195, 30);
+            this.lbl_ingreseAlgo.Size = new System.Drawing.Size(197, 32);
             this.lbl_ingreseAlgo.TabIndex = 1;
             this.lbl_ingreseAlgo.Text = "ingrese algo";
+            this.lbl_ingreseAlgo.MouseMove += new System.Windows.Forms.MouseEventHandler(this.lbl_ingreseAlgo_MouseMove);
             // 
             // btn
             // 
