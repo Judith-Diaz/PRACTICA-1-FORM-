@@ -1,0 +1,10 @@
+C:\Users\judhit\Desktop\UTN\CURSANDO\PROGRAMACION3\Parte1\AplicacionesWindowa\Practica1(FORM)\PRACTICA-1-FORM-\MiPrimerAplicacin\MiPrimerAplicacin\bin\Debug\MiPrimerAplicacin.exe.config
+C:\Users\judhit\Desktop\UTN\CURSANDO\PROGRAMACION3\Parte1\AplicacionesWindowa\Practica1(FORM)\PRACTICA-1-FORM-\MiPrimerAplicacin\MiPrimerAplicacin\bin\Debug\MiPrimerAplicacin.exe
+C:\Users\judhit\Desktop\UTN\CURSANDO\PROGRAMACION3\Parte1\AplicacionesWindowa\Practica1(FORM)\PRACTICA-1-FORM-\MiPrimerAplicacin\MiPrimerAplicacin\bin\Debug\MiPrimerAplicacin.pdb
+C:\Users\judhit\Desktop\UTN\CURSANDO\PROGRAMACION3\Parte1\AplicacionesWindowa\Practica1(FORM)\PRACTICA-1-FORM-\MiPrimerAplicacin\MiPrimerAplicacin\obj\Debug\MiPrimerAplicacin.csproj.AssemblyReference.cache
+C:\Users\judhit\Desktop\UTN\CURSANDO\PROGRAMACION3\Parte1\AplicacionesWindowa\Practica1(FORM)\PRACTICA-1-FORM-\MiPrimerAplicacin\MiPrimerAplicacin\obj\Debug\MiPrimerAplicacin.cambieNombre.resources
+C:\Users\judhit\Desktop\UTN\CURSANDO\PROGRAMACION3\Parte1\AplicacionesWindowa\Practica1(FORM)\PRACTICA-1-FORM-\MiPrimerAplicacin\MiPrimerAplicacin\obj\Debug\MiPrimerAplicacin.Properties.Resources.resources
+C:\Users\judhit\Desktop\UTN\CURSANDO\PROGRAMACION3\Parte1\AplicacionesWindowa\Practica1(FORM)\PRACTICA-1-FORM-\MiPrimerAplicacin\MiPrimerAplicacin\obj\Debug\MiPrimerAplicacin.csproj.GenerateResource.cache
+C:\Users\judhit\Desktop\UTN\CURSANDO\PROGRAMACION3\Parte1\AplicacionesWindowa\Practica1(FORM)\PRACTICA-1-FORM-\MiPrimerAplicacin\MiPrimerAplicacin\obj\Debug\MiPrimerAplicacin.csproj.CoreCompileInputs.cache
+C:\Users\judhit\Desktop\UTN\CURSANDO\PROGRAMACION3\Parte1\AplicacionesWindowa\Practica1(FORM)\PRACTICA-1-FORM-\MiPrimerAplicacin\MiPrimerAplicacin\obj\Debug\MiPrimerAplicacin.exe
+C:\Users\judhit\Desktop\UTN\CURSANDO\PROGRAMACION3\Parte1\AplicacionesWindowa\Practica1(FORM)\PRACTICA-1-FORM-\MiPrimerAplicacin\MiPrimerAplicacin\obj\Debug\MiPrimerAplicacin.pdb
