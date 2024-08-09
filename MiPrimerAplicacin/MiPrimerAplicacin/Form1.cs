@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace MiPrimerAplicacin
 {
-    public partial class cambieNombre : Form
+    public partial class btn_SN : Form
     {
-        public cambieNombre()
+        public btn_SN()
         {
             InitializeComponent();
             this.MinimizeBox = false;
@@ -31,5 +31,26 @@ namespace MiPrimerAplicacin
             MessageBox.Show(" chau, nos vamos de C#...." );
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+       { 
+            // MessageBox.Show(" se disparo el eventp", "atencion");
+            this.BackColor = Color.Aqua;
+        }
+
+        private void Form1_Click(object sender, EventArgs e)
+        {
+        MouseEventArgs click = (MouseEventArgs)e; 
+ 
+if (click.Button == MouseButtons.Left)  
+MessageBox.Show("Presiono el botón Izquierdo", "Atención"); 
+else if (click.Button == MouseButtons.Right)  
+MessageBox.Show("Presiono el Botón Derecho", "Atención"); 
+else if (click.Button == MouseButtons.Middle)  
+MessageBox.Show("Presiono el botón del Medio", "Atención");
+        }
+
+      
     }
 }
+
