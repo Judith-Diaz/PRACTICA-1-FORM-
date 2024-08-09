@@ -16,7 +16,7 @@ namespace MiPrimerAplicacin
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new cambieNombre());
+            Application.Run(new btn_SN());
         }
     }
 }
