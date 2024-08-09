@@ -28,20 +28,30 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.label1 = new System.Windows.Forms.Label();
             this.btn = new System.Windows.Forms.Button();
             this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(72, 28);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "label1";
             // 
             // btn
             // 
             this.btn.BackColor = System.Drawing.Color.Cyan;
-            this.btn.Image = global::MiPrimerAplicacin.Properties.Resources.pngtree_red_glossy_button_png_image_908890;
-            this.btn.Location = new System.Drawing.Point(125, 86);
+            this.btn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btn.Image = global::MiPrimerAplicacin.Properties.Resources.play;
+            this.btn.Location = new System.Drawing.Point(265, 79);
             this.btn.Name = "btn";
-            this.btn.Size = new System.Drawing.Size(237, 107);
+            this.btn.Size = new System.Drawing.Size(56, 40);
             this.btn.TabIndex = 0;
-            this.btn.Text = "tocar";
             this.btn.UseVisualStyleBackColor = false;
-            this.btn.Click += new System.EventHandler(this.button1_Click);
+            this.btn.Click += new System.EventHandler(this.Button1_Click);
             // 
             // btn_SN
             // 
@@ -49,19 +59,25 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(800, 253);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btn);
             this.Name = "btn_SN";
             this.Opacity = 0.4D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormularioRosa";
-           
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
+            this.Load += new System.EventHandler(this.btn_SN_Load);
             this.Click += new System.EventHandler(this.Form1_Load);
+            this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.btn_SN_MouseClick);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
-       
+        #endregion
+
         private System.Windows.Forms.Button btn;
+        private System.Windows.Forms.Label label1;
     }
 }
 

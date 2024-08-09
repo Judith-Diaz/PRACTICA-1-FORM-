@@ -83,5 +83,8 @@
   <ItemGroup>
     <None Include="Resources\pngtree-red-glossy-button-png-image_908890.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
