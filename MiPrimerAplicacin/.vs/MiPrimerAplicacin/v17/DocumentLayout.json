@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\judhit\\Desktop\\UTN\\CURSANDO\\PROGRAMACION3\\Parte1\\AplicacionesWindowa\\Practica1(FORM)\\PRACTICA-1-FORM-\\MiPrimerAplicacin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A16AA31B-DDA6-4768-9890-9E4ABC96C8F2}|MiPrimerAplicacin\\MiPrimerAplicacin.csproj|C:\\Users\\judhit\\Desktop\\UTN\\CURSANDO\\PROGRAMACION3\\Parte1\\AplicacionesWindowa\\Practica1(FORM)\\PRACTICA-1-FORM-\\MiPrimerAplicacin\\miprimeraplicacin\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16AA31B-DDA6-4768-9890-9E4ABC96C8F2}|MiPrimerAplicacin\\MiPrimerAplicacin.csproj|solutionrelative:miprimeraplicacin\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A16AA31B-DDA6-4768-9890-9E4ABC96C8F2}|MiPrimerAplicacin\\MiPrimerAplicacin.csproj|C:\\Users\\judhit\\Desktop\\UTN\\CURSANDO\\PROGRAMACION3\\Parte1\\AplicacionesWindowa\\Practica1(FORM)\\PRACTICA-1-FORM-\\MiPrimerAplicacin\\miprimeraplicacin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A16AA31B-DDA6-4768-9890-9E4ABC96C8F2}|MiPrimerAplicacin\\MiPrimerAplicacin.csproj|solutionrelative:miprimeraplicacin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A16AA31B-DDA6-4768-9890-9E4ABC96C8F2}|MiPrimerAplicacin\\MiPrimerAplicacin.csproj|c:\\users\\judhit\\desktop\\utn\\cursando\\programacion3\\parte1\\aplicacioneswindowa\\practica1(form)\\practica-1-form-\\miprimeraplicacin\\miprimeraplicacin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A16AA31B-DDA6-4768-9890-9E4ABC96C8F2}|MiPrimerAplicacin\\MiPrimerAplicacin.csproj|solutionrelative:miprimeraplicacin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A16AA31B-DDA6-4768-9890-9E4ABC96C8F2}|MiPrimerAplicacin\\MiPrimerAplicacin.csproj|C:\\Users\\judhit\\Desktop\\UTN\\CURSANDO\\PROGRAMACION3\\Parte1\\AplicacionesWindowa\\Practica1(FORM)\\PRACTICA-1-FORM-\\MiPrimerAplicacin\\miprimeraplicacin\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A16AA31B-DDA6-4768-9890-9E4ABC96C8F2}|MiPrimerAplicacin\\MiPrimerAplicacin.csproj|solutionrelative:miprimeraplicacin\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A16AA31B-DDA6-4768-9890-9E4ABC96C8F2}|MiPrimerAplicacin\\MiPrimerAplicacin.csproj|C:\\Users\\judhit\\Desktop\\UTN\\CURSANDO\\PROGRAMACION3\\Parte1\\AplicacionesWindowa\\Practica1(FORM)\\PRACTICA-1-FORM-\\MiPrimerAplicacin\\miprimeraplicacin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -50,20 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\judhit\\Desktop\\UTN\\CURSANDO\\PROGRAMACION3\\Parte1\\AplicacionesWindowa\\Practica1(FORM)\\PRACTICA-1-FORM-\\MiPrimerAplicacin\\MiPrimerAplicacin\\Form1.cs",
               "RelativeDocumentMoniker": "MiPrimerAplicacin\\Form1.cs",
               "ToolTip": "C:\\Users\\judhit\\Desktop\\UTN\\CURSANDO\\PROGRAMACION3\\Parte1\\AplicacionesWindowa\\Practica1(FORM)\\PRACTICA-1-FORM-\\MiPrimerAplicacin\\MiPrimerAplicacin\\Form1.cs",
               "RelativeToolTip": "MiPrimerAplicacin\\Form1.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAwB4AAAA4AAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAlwDQAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T23:15:11.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\judhit\\Desktop\\UTN\\CURSANDO\\PROGRAMACION3\\Parte1\\AplicacionesWindowa\\Practica1(FORM)\\PRACTICA-1-FORM-\\MiPrimerAplicacin\\MiPrimerAplicacin\\Form1.cs",
               "RelativeDocumentMoniker": "MiPrimerAplicacin\\Form1.cs",
@@ -88,13 +92,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\judhit\\Desktop\\UTN\\CURSANDO\\PROGRAMACION3\\Parte1\\AplicacionesWindowa\\Practica1(FORM)\\PRACTICA-1-FORM-\\MiPrimerAplicacin\\MiPrimerAplicacin\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "MiPrimerAplicacin\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\judhit\\Desktop\\UTN\\CURSANDO\\PROGRAMACION3\\Parte1\\AplicacionesWindowa\\Practica1(FORM)\\PRACTICA-1-FORM-\\MiPrimerAplicacin\\MiPrimerAplicacin\\Form1.Designer.cs",
               "RelativeToolTip": "MiPrimerAplicacin\\Form1.Designer.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBQAAAAJAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T23:14:05.331Z",
               "EditorCaption": ""
