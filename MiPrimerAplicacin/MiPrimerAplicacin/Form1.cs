@@ -62,14 +62,16 @@ namespace MiPrimerAplicacin
                 MessageBox.Show("Presiono el botón del Medio", "Atención");
         }
 
-        private void lbl_IngreseAlgo_Click(object sender, EventArgs e)
-        {
-
-        }
+      
 
         private void lbl_ingreseAlgo_MouseMove(object sender, MouseEventArgs e)
         {
             lbl_ingreseAlgo.BackColor = Color.Aquamarine;
+        }
+
+        private void lbl_ingreseAlgo_MouseLeave(object sender, EventArgs e)
+        {
+           lbl_ingreseAlgo.BackColor = System.Drawing.SystemColors.Control;
         }
     }
 }
