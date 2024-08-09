@@ -28,18 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
+            this.lbl_ingreseAlgo = new System.Windows.Forms.Label();
             this.btn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // label1
+            // lbl_ingreseAlgo
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(72, 28);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "label1";
+            this.lbl_ingreseAlgo.AutoSize = true;
+            this.lbl_ingreseAlgo.Location = new System.Drawing.Point(65, 93);
+            this.lbl_ingreseAlgo.Name = "lbl_ingreseAlgo";
+            this.lbl_ingreseAlgo.Size = new System.Drawing.Size(64, 13);
+            this.lbl_ingreseAlgo.TabIndex = 1;
+            this.lbl_ingreseAlgo.Text = "ingrese algo";
             // 
             // btn
             // 
@@ -59,7 +59,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(800, 253);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lbl_ingreseAlgo);
             this.Controls.Add(this.btn);
             this.Name = "btn_SN";
             this.Opacity = 0.4D;
@@ -77,7 +77,7 @@
         #endregion
 
         private System.Windows.Forms.Button btn;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lbl_ingreseAlgo;
     }
 }
 

@@ -61,6 +61,11 @@ namespace MiPrimerAplicacin
             else if (click.Button == MouseButtons.Middle)
                 MessageBox.Show("Presiono el botón del Medio", "Atención");
         }
+
+        private void lbl_IngreseAlgo_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
